@@ -5,6 +5,6 @@ __bold__
 __bold and *italic* mix__
 ### heading
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
-1.first
+(1.first
 1.second
-1.third
+1.third)
